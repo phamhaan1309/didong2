@@ -1,1 +1,21 @@
 README.md~
+# Ignore backup files created by editors
+*~
+
+# Node modules (nếu bạn dùng React Native / Node.js)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# Android build folders
+android/app/build/
+android/build/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Other temporary files
+.DS_Store
+.idea/
